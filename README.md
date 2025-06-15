@@ -67,6 +67,4 @@ A simple and modern Todo List web application built with **Django** and **Postgr
 - Visit `http://127.0.0.1:8000/` in your browser.
 - Register a new account and start managing your tasks!
 
-## License
-This project is licensed under the MIT License.
 
